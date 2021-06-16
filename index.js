@@ -7,6 +7,8 @@ if(process.argv[6]){
 }
 if(process.argv[2]===undefined){
   Controller.help()
+} else if(process.argv[2]==="-h"){
+  Controller.help()
 } else {
   switch (process.argv[3]) {
     case undefined:
