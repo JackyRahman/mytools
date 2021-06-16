@@ -1,0 +1,21 @@
+{
+  "name": "mytools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyRahman/mytools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyRahman/mytools/issues"
+  },
+  "homepage": "https://github.com/JackyRahman/mytools#readme"
+}
