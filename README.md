@@ -1,7 +1,7 @@
 # mytools
 
 #INSTALLATION
-npm install -g
+"npm install -g"
 
 #how to use 
-$mytools -h
+"$mytools -h"
