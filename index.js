@@ -19,7 +19,7 @@ if(process.argv[2]===undefined){
         Controller.convert('.json')
       }
       break
-      case "-0":
+      case "-o":
         if (process.argv[4]===undefined) {
           console.log("please fill the new directorty!");
         } else {
